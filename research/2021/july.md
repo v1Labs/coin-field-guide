@@ -8,3 +8,5 @@ There certainly are a few fat cats looking for an exit. Does this mean other maj
 This could hurt crypto short term but maybe it's a good thing long term. Maybe this paves the way for decentral exchanges to get traction.
 
 The part of the article covering Tether is very worrying. I need to do more research on stablecoins and the mechanics behind reserves and other strategies to stabilize.
+
+^ [Dane Lyons](https://twitter.com/duilen)
